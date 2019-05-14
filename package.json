@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Michael Nutt's portfolio site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnutt346/Portfolio.git"
+  },
+  "author": "Michael Nutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnutt346/Portfolio/issues"
+  },
+  "homepage": "https://github.com/mnutt346/Portfolio#readme"
+}
